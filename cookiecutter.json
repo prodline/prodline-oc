@@ -1,0 +1,9 @@
+{
+    "github_username": "prodline",
+    "project_name": "Open Component",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_short_description": "Open component",
+    "version": "0.1.0",
+    "create_author_file": "y",
+    "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"]
+  }
